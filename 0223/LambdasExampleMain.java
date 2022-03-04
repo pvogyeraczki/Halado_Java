@@ -14,4 +14,5 @@ public class LambdasExampleMain{
         System.out.println("Third Run");
         LambdasExample.printCounter.accept(2);
     }
+
 }
